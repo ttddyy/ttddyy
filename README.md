@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+### Projects
+- [Datasource Micrometer](https://github.com/jdbc-observations/datasource-micrometer)
+- [R2DBC Proxy](https://github.com/r2dbc/r2dbc-proxy)
+- [datasource-proxy](https://github.com/jdbc-observations/datasource-proxy)
 <!--
 **ttddyy/ttddyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
